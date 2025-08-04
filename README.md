@@ -207,12 +207,13 @@ Optimized for both debug and release builds with proper R8 configuration for cod
 ### Screenshots
 
 ![App screenshot](https://github.com/user-attachments/assets/b6c9a1af-3cc6-4927-a18b-baaae9f1f7ab)
-![App Screenshot ](https://github.com/user-attachments/assets/fc561e21-1ff6-4e16-87ad-b745afb6b23e)
+![App Screenshot](https://github.com/user-attachments/assets/fc561e21-1ff6-4e16-87ad-b745afb6b23e)
 ![App Screenshot](https://github.com/user-attachments/assets/f04ffdc3-7521-459b-837d-69146616ade5)
 ![App Screenshot](https://github.com/user-attachments/assets/dd708c63-0b9c-404c-89b0-1467a611bb4f))
 ![App Screensot](https://github.com/user-attachments/assets/ed1ef53d-f76f-4e86-9788-d27bebb24254)
 ![App Screenshot](https://github.com/user-attachments/assets/eeb9598c-9b95-498d-80a5-3adbaededa7e)
 ![App Screenshot](https://github.com/user-attachments/assets/9cd4c801-f1c7-4414-a073-1bf86a06e799)
+![App Screenshot](https://github.com/user-attachments/assets/9c1c3c60-c7d0-4a05-85bc-8d130fad0e7a)
 
 
 
